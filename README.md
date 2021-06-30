@@ -9,7 +9,7 @@
 
 
 ### You can reach me on: 
-<a href="https://www.linkedin.com/in/melvin-de-jong/"> <img width="350" src="https://cdn.worldvectorlogo.com/logos/linkedin.svg"> </a>
+<a href="https://www.linkedin.com/in/melvin-de-jong/"> <img width="250" src="https://cdn.worldvectorlogo.com/logos/linkedin.svg"> </a>
 
 
 
