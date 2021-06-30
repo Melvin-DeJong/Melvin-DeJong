@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Melvin  
 
-<img align="right" width="100%" src="Github_banner.png"/>
+<img align="right" width="100%" src="..."/>
 
 
 <br>
