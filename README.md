@@ -4,8 +4,8 @@
 <br>
 
 ### I’m currently learning:
-<img width="100" src="https://res.cloudinary.com/practicaldev/image/fetch/s--be3eR7Dm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nunomalex.me/svelte-logo.png" > 
-<img width="100" src="https://dev.co/wp-content/uploads/2020/06/kisspng-react-logo-redux-webpack-babel-5b7b7258694912.5465440215348168564313.png" >
+<img width="50" src="https://res.cloudinary.com/practicaldev/image/fetch/s--be3eR7Dm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nunomalex.me/svelte-logo.png" > 
+<img width="50" src="https://dev.co/wp-content/uploads/2020/06/kisspng-react-logo-redux-webpack-babel-5b7b7258694912.5465440215348168564313.png" >
 
 
 ### You can reach me on: 
