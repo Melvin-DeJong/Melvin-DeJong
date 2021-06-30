@@ -1,4 +1,6 @@
-## 👋 Hi, I’m Melvin  <img align="right" width="300" src="https://bymelvin.com/wp-content/uploads/2021/02/Melvin-2.png"/>
+## 👋 Hi, I’m Melvin  
+
+<img align="right" width="300" src="Github_banner.png"/>
 
 
 <br>
